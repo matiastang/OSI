@@ -14,6 +14,3 @@ socket一词的起源
 
 socket的基本操作
 既然socket是“open—write/read—close”模式的一种实现，那么socket就提供了这些操作对应的函数接口。下面以TCP为例，介绍几个基本的socket接口函数。
-
-[@_silgen_name](https://stackoverflow.com/questions/35030998/what-is-silgen-name-in-swift-language)
-[深度探究HandyJSON(二) Mirror 的原理](https://www.jianshu.com/p/da0ccff0b531)
