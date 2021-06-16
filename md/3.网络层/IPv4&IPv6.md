@@ -2,7 +2,7 @@
  * @Author: tangdaoyong
  * @Date: 2021-02-09 17:44:01
  * @LastEditors: tangdaoyong
- * @LastEditTime: 2021-02-09 18:00:56
+ * @LastEditTime: 2021-06-16 09:39:35
  * @Description: IPv4&Ipv6
 -->
 # IPv4&Ipv6
@@ -13,7 +13,7 @@
 
 一个IP包分为头部(header)和数据(payload/data)两部分。头部是为了实现IP通信必须的附加信息，数据是IP通信所要传送的信息。
 
-![IPv4&Ipv6区别](../imgs/IPv4&Ipv6.jpeg)
+![IPv4&Ipv6区别](../imgs/IPv4&Ipv6.jpg)
 
 黄色区域 (同名区域)
 
